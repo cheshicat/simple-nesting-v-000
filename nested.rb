@@ -54,7 +54,7 @@ def dennis_ritchies_language
         }
      }
 	language = programmer_hash[:dennis_ritchie][:languages]
-	lang_string
+	lang_string = language.inspect
 end
 
 def adding_matz
