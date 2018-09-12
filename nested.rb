@@ -73,7 +73,7 @@ def adding_matz
         }
      }
 
-	programmer_hash[:yukihiro_matsumoto] = x
+	programmer_hash[:yukihiro_matsumoto] = 2
 
 programmer_hash
 
